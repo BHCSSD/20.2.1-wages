@@ -22,17 +22,17 @@ function draw() {
     text("Hours Worked", 50, 50);
     text("Dollars Earned", 250, 50);
     
-    for( let i=0;       ;  i++ ){
+    //for( let i=0;       ;  i++ ){
 
 
-    }//end of for
+   // }//end of for
   
 //Total Algorithm
     let total = 0;
-    for( let i = 0;                ; i++  ){
+   // for( let i = 0;                ; i++  ){
 
 
-    }// end of for
+   // }// end of for
     text("Total Earned $" + (total*wage), 400, 200   );
    
 }//end draw
