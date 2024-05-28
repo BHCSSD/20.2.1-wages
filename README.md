@@ -27,7 +27,7 @@ function draw() {
 
    // }//end of for
   
-//Total Algorithm
+//How to figure out the Total Algorithm 
     let total = 0;
    // for( let i = 0;                ; i++  ){
 
